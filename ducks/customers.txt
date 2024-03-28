@@ -1,0 +1,2 @@
+john,password123,john@email.com
+luke,password234,luke@gmail.com
